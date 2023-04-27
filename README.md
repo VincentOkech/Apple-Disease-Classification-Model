@@ -1,2 +1,2 @@
 # Apple-Disease-Classification-Model
-Using CNN to classify Aple diseases
+Using CNN to classify Apple diseases
